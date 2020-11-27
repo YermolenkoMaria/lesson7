@@ -1,0 +1,29 @@
+.block1{background: red;
+line-height:50px;
+text-align:center;
+font-size:18px;
+font-weight70px;}
+.block2{background: green;
+line-height:50px;
+text-align:center;
+font-size:18px;
+font-weight70px;
+position: sticky;
+top:20px;
+
+z-index: 1;}
+.block3{background: pink;
+line-height:50px;
+text-align:center;
+font-size:18px;
+font-weight:70px;}
+body{
+padding 30xp;
+height:2000px;
+}
+.block {border: 5px solid yellow;
+max-width:800px;
+margin: 0 auto;
+position:relative;}
+
+
