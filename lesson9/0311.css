@@ -1,6 +1,13 @@
 div{border: 5px solid black; border-radius: 10px}
+.two{display:flex;
+	flex-direction:column;
+flex-wrap:wrap;
+height:400px;
+width:500px;
+align-content: space-between;}
 .one{display:flex;
-flex-direction:row;
-;
-align-items: stretch; }
-.two{width:500px;}
+	flex-direction:column;
+flex-wrap:wrap;
+height:400px;
+width:500px;
+align-content: space-between;}
