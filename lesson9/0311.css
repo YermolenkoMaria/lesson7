@@ -1,0 +1,6 @@
+div{border: 5px solid black; border-radius: 10px}
+.one{display:flex;
+flex-direction:row;
+;
+align-items: stretch; }
+.two{width:500px;}
