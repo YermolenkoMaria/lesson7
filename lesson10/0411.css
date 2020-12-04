@@ -1,0 +1,32 @@
+div{border: 5px solid white; border-radius: 100px}
+.one{display:flex;
+	flex-direction:row;
+justify-content: space-between;
+
+}
+.two {height:300px;
+	width:400px;
+	text-align: right;
+	background: linear-gradient(red, blue);
+margin-left:200px;}
+
+.three {display:flex;
+	flex-direction:row;
+	width:800px;
+justify-content: space-between;
+flex-wrap: wrap;
+
+}
+.t{margin-top:100px;
+	width:300px;
+	background: linear-gradient(blue, red);
+text-align: center;
+
+}
+img{height:350px;
+width:300px;
+margin-bottom:20px;
+margin-right:500px;
+}
+.g{margin-right:50px;
+margin-top:20px;}
